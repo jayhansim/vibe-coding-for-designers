@@ -2,8 +2,6 @@
 
 A single-page landing page and guide for product designers who want to build real things using AI coding tools — without a programming background.
 
-Live at: [jayhansim.github.io/vibe-coding-for-designers](https://jayhansim.github.io/vibe-coding-for-designers) *(update with actual URL)*
-
 ---
 
 ## About
@@ -81,8 +79,3 @@ npm run test
     └── regression.spec.js
 ```
 
----
-
-## Deploy
-
-Drag the project folder onto [Netlify Drop](https://app.netlify.com/drop). Live in 30 seconds.
