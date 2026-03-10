@@ -2,6 +2,8 @@
 
 A single-page landing page and guide for product designers who want to build real things using AI coding tools — without a programming background.
 
+Live at: https://vibe-coding-for-designers.vercel.app
+
 ---
 
 ## About
